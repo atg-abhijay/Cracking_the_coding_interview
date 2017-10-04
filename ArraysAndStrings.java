@@ -2,8 +2,8 @@ import java.util.Stack;
 
 public class ArraysAndStrings {
     public static void main(String[] args) {
-        boolean outcome = q1point2(args[0]);
-        System.out.println(outcome);
+        String reversedString = q1point2(args[0]);
+        System.out.println(reversedString);
     }
 
     /* checking if a string
